@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34171'
     url: http://www.gutenberg.org/2009/agents/34171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29787#England-Picturesque-and-DescriptiveA-Reminiscence-of-Foreign-Travel
 gutenberg_issued: '2009-08-24'
 gutenberg_type: Text
 identifiers:
