@@ -1,0 +1,27 @@
+_repo: England-Picturesque-and-DescriptiveA-Reminiscence-of-Foreign-Travel_29787
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Joel
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '34171'
+    url: http://www.gutenberg.org/2009/agents/34171
+description: ''
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29787'
+  lccn: '02030336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel'
+title: 'England, Picturesque and Descriptive: A Reminiscence of Foreign Travel'
+url: http://www.gutenberg.org/ebooks/29787
